@@ -1,4 +1,5 @@
 "Разработчик Elazar"
+
 from random import randint
 number = randint(1, 100)
 print('Угадайте число от 1 до 100')
